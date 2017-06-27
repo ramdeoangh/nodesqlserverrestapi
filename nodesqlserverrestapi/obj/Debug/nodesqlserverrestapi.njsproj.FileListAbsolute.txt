@@ -1,0 +1,2 @@
+d:\mobiliya\node\nodesqlserverrestapi\nodesqlserverrestapi\obj\Debug\nodesqlserverrestapi.njsprojResolveAssemblyReference.cache
+d:\mobiliya\node\nodesqlserverrestapi\nodesqlserverrestapi\bin\Microsoft.NodejsTools.WebRole.dll

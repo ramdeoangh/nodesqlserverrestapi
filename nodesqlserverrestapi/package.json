@@ -1,0 +1,14 @@
+{
+  "name": "nodesqlserverrestapi",
+  "version": "0.0.0",
+  "description": "nodesqlserverrestapi",
+  "main": "app.js",
+  "author": {
+    "name": "Ramdeo"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mssql": "^3.3.0"
+  }
+}
